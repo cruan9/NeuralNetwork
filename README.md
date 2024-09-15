@@ -1,0 +1,3 @@
+#NeuralNetwork
+
+Neural network implementation with forwards and backwards propagation to update the weightings of each node as well as various loss and activation functions. The network is trained and validated using the K-Fold cross validation procedure. At the end of execution, a graph is printed, illustarting the model's average loss for each epoch. This implementation is tested with two datasets: one for wine quality and one for abalone age. Both are multivariate regression datasets with numerical data only with over 1000 samples each. They are both imported and can be found at https://archive.ics.uci.edu/.   
